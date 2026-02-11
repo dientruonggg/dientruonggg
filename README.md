@@ -2,7 +2,7 @@
 
 ### A passionate App/AI developer
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/109971402?v=4&size=64" alt="dientruonggg" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1rBpSwtsHgWu2jPe3dLWWT8EHElzgLnCH/view?usp=sharing" /> </p>
 
 - 🔭 I'm currently working on **UniFund projects.**
 
