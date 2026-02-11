@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dien Truong
 
-### A passionate Html developer
+### A passionate App/AI developer
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/109971402?v=4&size=64" alt="dientruonggg" /> </p>
 
