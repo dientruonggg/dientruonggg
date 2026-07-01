@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Dien+Truong;%F0%9F%94%AD+Building+the+future+with+AI+%26+Code;%F0%9F%8C%8C+Exploring+Quantum+Computing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=800&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Dien+Truong;%F0%9F%94%AD+Data+Science+%26+AI+@+DUT;%F0%9F%94%AC+Scientific+Researcher;%F0%9F%8C%8C+Quantum+Machine+Learning" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,11 +36,11 @@
   <tr>
     <td width="55%">
 
-- 🔭 I'm currently working on **UniFund projects**
-- 🌱 I'm currently learning **Quantum Computing, Avalonia UI, and Advanced Machine Learning**
-- 👯 I'm looking to collaborate on **Open Source AI projects**
-- 🤝 I'm looking for help with **Quantum Algorithms and System Architecture**
-- 💬 Ask me about **Linux Zorin OS, Python, and Business Analysis**
+- 🔭 I'm currently working on **Food Calorie Estimation (CV) & JEPA models**
+- 🌱 I'm diving deep into **Quantum Machine Learning (QGNN) & Self-Supervised Learning**
+- 🏆 Proud of: **Bronze Medal DUT Code League & Best Web Design 2025**
+- 👯 I'm looking to collaborate on **Open Source AI/ML & Quantum Computing projects**
+- 💬 Ask me about **PyTorch, Python, and Data Science**
 - ⚡ Fun fact: **I like singing a lot, if you bring a guitar we can sit on the beach for some music 🎸**
 
     </td>
@@ -77,14 +77,9 @@
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Languages & Environments
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🤖 AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -94,19 +89,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -159,15 +144,7 @@
   </picture>
 </div>
 
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ⏱️ WAKATIME STATS (auto-updated by GitHub Actions)                     -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-## ⏱️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-🔄 *Setting up — Install WakaTime plugin and configure the GitHub Action to see your coding stats here!*
-<!--END_SECTION:waka-->
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!-- 💬 RANDOM DEV QUOTE                                                    -->
