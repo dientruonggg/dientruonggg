@@ -116,11 +116,15 @@
 
 ## 🏆 GitHub Trophies
 
+> **Note:** Trophies are temporarily hidden because the official `github-profile-trophy` server is currently down globally.
+
+<!-- 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dientruonggg&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&v=2" alt="GitHub Trophies" />
   </a>
 </div>
+-->
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!-- 📈 ACTIVITY GRAPH                                                      -->
