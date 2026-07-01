@@ -102,12 +102,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dientruonggg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&v=1" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dientruonggg&theme=tokyonight&hide_border=true&background=1a1b27&v=1" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dientruonggg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&v=2" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dientruonggg&theme=tokyonight&hide_border=true&background=1a1b27&v=2" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dientruonggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&v=1" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dientruonggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&v=2" alt="Top Languages" />
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
