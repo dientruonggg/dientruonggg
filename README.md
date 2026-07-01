@@ -102,12 +102,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dientruonggg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dientruonggg&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dientruonggg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&v=1" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dientruonggg&theme=tokyonight&hide_border=true&background=1a1b27&v=1" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dientruonggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dientruonggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&v=1" alt="Top Languages" />
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
@@ -117,7 +117,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dientruonggg&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dientruonggg&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&v=1" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
@@ -127,7 +129,9 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dientruonggg&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Activity Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dientruonggg&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&v=1" alt="Activity Graph" />
+  </a>
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
