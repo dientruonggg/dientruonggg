@@ -1,36 +1,194 @@
-# Hi 👋, I'm Dien Truong
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 ANIMATED WAVING HEADER                                              -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-### A passionate App/AI developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=220&section=header&text=Dien%20Truong&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=App%20Developer%20%7C%20AI%20Engineer%20%7C%20Quantum%20Computing%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" />
 
-<p align="left"> <img src="https://drive.google.com/file/d/1rBpSwtsHgWu2jPe3dLWWT8EHElzgLnCH/view?usp=sharing" /> </p>
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ⌨️ TYPING ANIMATION                                                     -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-- 🔭 I'm currently working on **UniFund projects.**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Dien+Truong;%F0%9F%94%AD+Building+the+future+with+AI+%26+Code;%F0%9F%8C%8C+Exploring+Quantum+Computing" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 I'm currently learning **Quantum Computing, Avalonia UI, and Advanced Machine Learning.**
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 👁️ VISITOR COUNTER                                                      -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-- 👯 I'm looking to collaborate on **Open Source AI projects.**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dientruonggg&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dientruonggg?style=for-the-badge&color=00D9FF&labelColor=1a1b27&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/dientruonggg?style=for-the-badge&color=6C63FF&labelColor=1a1b27&label=Stars" alt="Stars" />
+</div>
 
-- 🤝 I'm looking for help with **Quantum Algorithms and System Architecture.**
+<br/>
 
-- 💬 Ask me about **Linux Zorin OS, Python, and Bussiness Analysis.**
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME                                                            -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-- 📫 How to reach me **dientruong2104@gmail.com**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-- ⚡ Fun fact **I like singing a lot, if you bring a guitar we can sit on the beach for some music :DD**
+<table>
+  <tr>
+    <td width="55%">
 
-- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/dien-truong-324809352/](https://www.linkedin.com/in/dien-truong-324809352/)**
+- 🔭 I'm currently working on **UniFund projects**
+- 🌱 I'm currently learning **Quantum Computing, Avalonia UI, and Advanced Machine Learning**
+- 👯 I'm looking to collaborate on **Open Source AI projects**
+- 🤝 I'm looking for help with **Quantum Algorithms and System Architecture**
+- 💬 Ask me about **Linux Zorin OS, Python, and Business Analysis**
+- ⚡ Fun fact: **I like singing a lot, if you bring a guitar we can sit on the beach for some music 🎸**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1qdoOFRNR0vjXMq4vcR2wXn6HZ8X6nkR0/view?usp=sharing](https://drive.google.com/file/d/1qdoOFRNR0vjXMq4vcR2wXn6HZ8X6nkR0/view?usp=sharing)**
+    </td>
+    <td width="45%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/dientruonggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dientruonggg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dien-truong-324809352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dien-truong-324809352" height="30" width="40" /></a>
-<a href="https://fb.com/dientruongbui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dientruongbui" height="30" width="40" /></a>
-<a href="https://instagram.com/tr.b.dien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tr.b.dien" height="30" width="40" /></a>
-<a href="https://discord.gg/truongbuidien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="truongbuidien" height="30" width="40" /></a>
-</p>
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔗 CONNECT WITH ME                                                     -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
 
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dientruong2104@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dien-truong-324809352)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/dientruongbui)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tr.b.dien)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/truongbuidien)
+[![Resume](https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1qdoOFRNR0vjXMq4vcR2wXn6HZ8X6nkR0/view?usp=sharing)
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK                                                          -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS                                                        -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dientruonggg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dientruonggg&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dientruonggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" />
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 GITHUB TROPHIES                                                     -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dientruonggg&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 📈 ACTIVITY GRAPH                                                      -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dientruonggg&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Activity Graph" />
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 SNAKE ANIMATION                                                     -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dientruonggg/dientruonggg/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dientruonggg/dientruonggg/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dientruonggg/dientruonggg/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ⏱️ WAKATIME STATS (auto-updated by GitHub Actions)                     -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+🔄 *Setting up — Install WakaTime plugin and configure the GitHub Action to see your coding stats here!*
+<!--END_SECTION:waka-->
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 💬 RANDOM DEV QUOTE                                                    -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 WAVING FOOTER                                                       -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" /> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=120&section=footer" />
