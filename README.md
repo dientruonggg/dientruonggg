@@ -143,7 +143,14 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/dientruonggg/dientruonggg/output/github-snake.svg" />
   </picture>
 </div>
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ⏱️ WAKATIME STATS (auto-updated by GitHub Actions)                     -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
