@@ -160,17 +160,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2026 - To: 15 July 2026
+From: 10 July 2026 - To: 16 July 2026
 
-Total Time: 6 hrs 4 mins
+Total Time: 6 hrs 56 mins
 
-Python       3 hrs 26 mins         ███████████▒░░░░░░░░░░░░░   45.91 %
-Markdown     1 hr 52 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
-Other        1 hr 25 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-JavaScript   36 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-TeX          4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-CSS          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python       3 hrs 26 mins         ██████████▒░░░░░░░░░░░░░░   41.18 %
+Markdown     1 hr 52 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
+Other        1 hr 25 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+JavaScript   1 hr 22 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+TeX          9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+CSS          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
